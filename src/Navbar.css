@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #027BC5;
+    padding: 10px; /* Add padding as needed */
+    display: flex;
+    justify-content: space-between; /* To align logo to the left and other content to the right */
+    align-items: center; /* To vertically center content */
+    height: 80px;
+  }
+  
+  .navbar-logo {
+    align-self: center;
+  }
+  
+  .navbar-links {
+    font-size: 10px;
+  }
+  
+  
+  .navbar-right {
+    font-size: 10px; 
+  }
+  
